@@ -1,4 +1,4 @@
-# HSK_531E_SM_Moselle_Mask
+# Soil_Moisture_Moselle_Mask
 #
 # These codes were written by me during the course season to contribute to team project.
 #
